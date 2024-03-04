@@ -6,7 +6,7 @@
   width: 797px;
   min-height: 850px;
   height: auto;
-  margin: 70px auto 0 calc(((100% - 1140px) / 2));
+  margin: 40px auto 0 calc(((100% - 1140px) / 2) + 22px);
 }
 
 .u-section-1 .u-container-layout-1 {
@@ -14,56 +14,62 @@
   padding-bottom: 0;
 }
 
-.u-section-1 .u-group-elements-1 {
-  min-height: 827px;
-  width: 797px;
-  height: auto;
-  margin: -78px -77px 0 auto;
-}
-
-.u-section-1 .u-shape-1 {
-  width: 778px;
-  height: 754px;
-  margin: 73px auto 0 0;
-}
-
-.u-section-1 .u-shape-2 {
-  width: 668px;
-  height: 668px;
-  margin: -827px 0 0 auto;
-}
-
-.u-section-1 .u-text-1 {
-  font-size: 7.5rem;
-  line-height: 1;
-  font-weight: 700;
-  margin: -622px 60px 0 30px;
-}
-
-.u-section-1 .u-image-1 {
-  width: 477px;
-  height: 477px;
-  background-image: url("images/SMART-ID_Export_20200526163452_schwarzweiss.jpg");
-  background-position: 50% 41.36%;
-  margin: -898px calc(((100% - 1140px) / 2) + 11px) 0 auto;
-}
-
 .u-section-1 .u-group-2 {
   width: 707px;
-  min-height: 689px;
+  min-height: 712px;
   height: auto;
-  margin: -165px auto 0 calc(((100% - 1140px) / 2) + 45px);
+  margin: 190px auto 0 -20px;
 }
 
 .u-section-1 .u-container-layout-2 {
   padding-bottom: 0;
 }
 
+.u-section-1 .u-group-elements-1 {
+  min-height: 846px;
+  width: 790px;
+  height: auto;
+  margin: -172px -485px 0 auto;
+}
+
+.u-section-1 .u-shape-1 {
+  width: 778px;
+  height: 754px;
+  margin: 89px auto 0 0;
+}
+
+.u-section-1 .u-shape-2 {
+  width: 668px;
+  height: 668px;
+  margin: -846px 0 0 auto;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 7.5rem;
+  line-height: 1;
+  font-weight: 700;
+  margin: -776px -186px 0 401px;
+}
+
 .u-section-1 .u-text-2 {
   font-family: Poppins;
   line-height: 2;
   font-size: 1.25rem;
-  margin: 120px 285px 0 22px;
+  margin: 0 -128px 0 433px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 784px;
+  height: 547px;
+  margin: 29px auto -242px -53px;
+}
+
+.u-section-1 .u-image-2 {
+  width: 261px;
+  height: 261px;
+  background-image: url("images/SMART-ID_Export_20200526163452_schwarzweiss.jpg");
+  background-position: 50% 41.36%;
+  margin: -707px calc(((100% - 1140px) / 2) + -34px) 0 auto;
 }
 
 .u-section-1 .u-btn-1 {
@@ -73,18 +79,12 @@
   border-style: none;
   font-weight: 700;
   text-transform: uppercase;
-  margin: -30px 14px 0 auto;
+  margin: 82px calc(((100% - 1140px) / 2) + 123px) 60px auto;
   padding: 14px 73px 15px 71px;
 }
 
 .u-section-1 .u-icon-1 {
   color: rgb(17, 17, 17) !important;
-}
-
-.u-section-1 .u-image-2 {
-  width: 967px;
-  height: 675px;
-  margin: -351px auto 60px 0;
 }
 
 @media (max-width: 1199px) {
@@ -93,7 +93,7 @@
   }
 
   .u-section-1 .u-group-1 {
-    margin-left: calc(((100% - 1140px) / 2) + 100px);
+    margin-left: calc(((100% - 940px) / 2) + 22px);
     height: auto;
   }
 
@@ -102,18 +102,22 @@
     padding-right: 0;
   }
 
-  .u-section-1 .u-image-1 {
-    margin-right: calc(((100% - 1140px) / 2) + 111px);
-  }
-
   .u-section-1 .u-group-2 {
-    margin-left: calc(((100% - 1140px) / 2) + 145px);
     height: auto;
   }
 
-  .u-section-1 .u-image-2 {
+  .u-section-1 .u-image-1 {
     width: 707px;
-    margin-left: calc(((100% - 1140px) / 2) + 100px);
+    height: 494px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-right: calc(((100% - 940px) / 2) + -34px);
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-right: calc(((100% - 940px) / 2));
   }
 }
 
@@ -127,22 +131,12 @@
     margin-left: calc(((100% - 720px) / 2));
   }
 
-  .u-section-1 .u-text-1 {
-    margin-right: 13px;
-    margin-left: 0;
-  }
-
-  .u-section-1 .u-image-1 {
-    margin-right: calc(((100% - 720px) / 2) + 111px);
-  }
-
-  .u-section-1 .u-group-2 {
-    margin-left: calc(((100% - 720px) / 2) + 13px);
-  }
-
   .u-section-1 .u-image-2 {
-    height: 502px;
-    margin-left: calc(((100% - 720px) / 2) + 13px);
+    margin-right: calc(((100% - 720px) / 2) + -34px);
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-right: calc(((100% - 720px) / 2));
   }
 }
 
@@ -156,44 +150,37 @@
     margin-left: calc(((100% - 540px) / 2));
   }
 
-  .u-section-1 .u-group-elements-1 {
+  .u-section-1 .u-group-2 {
     width: 540px;
-    margin-right: 0;
+    margin-left: 0;
   }
 
   .u-section-1 .u-text-1 {
     font-size: 6rem;
-    margin-right: 0;
-  }
-
-  .u-section-1 .u-image-1 {
-    margin-right: calc(((100% - 540px) / 2) + 63px);
-  }
-
-  .u-section-1 .u-group-2 {
-    width: 540px;
-    margin-left: calc(((100% - 540px) / 2));
+    margin-left: 318px;
   }
 
   .u-section-1 .u-text-2 {
-    margin-right: 140px;
-    margin-left: 0;
+    margin-left: 350px;
   }
 
-  .u-section-1 .u-btn-1 {
-    margin-right: 0;
+  .u-section-1 .u-image-1 {
+    width: 540px;
+    height: 377px;
   }
 
   .u-section-1 .u-image-2 {
-    width: 540px;
-    height: 377px;
-    margin-left: calc(((100% - 540px) / 2));
+    margin-right: calc(((100% - 540px) / 2) + -34px);
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-right: calc(((100% - 540px) / 2));
   }
 }
 
 @media (max-width: 575px) {
    .u-section-1 {
-    min-height: 868px;
+    min-height: 1005px;
   }
 
   .u-section-1 .u-group-1 {
@@ -201,33 +188,30 @@
     margin-left: calc(((100% - 340px) / 2));
   }
 
-  .u-section-1 .u-group-elements-1 {
+  .u-section-1 .u-group-2 {
     width: 340px;
   }
 
   .u-section-1 .u-text-1 {
     font-size: 3.75rem;
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 250px;
   }
 
   .u-section-1 .u-image-1 {
     width: 340px;
-    height: 340px;
-    margin-right: calc(((100% - 340px) / 2));
-  }
-
-  .u-section-1 .u-group-2 {
-    width: 340px;
-    margin-top: -28px;
-    margin-left: calc(((100% - 340px) / 2));
-  }
-
-  .u-section-1 .u-text-2 {
-    margin-right: 0;
+    height: 237px;
   }
 
   .u-section-1 .u-image-2 {
-    width: 340px;
-    height: 237px;
-    margin-left: calc(((100% - 340px) / 2));
+    margin-right: calc(((100% - 340px) / 2) + -34px);
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-right: calc(((100% - 340px) / 2));
   }
 }
