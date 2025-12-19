@@ -3,7 +3,7 @@
   icon: fab fa-twitter
 - title: bluesky
   url: https://bsky.app/profile/hoeflet.bsky.social
-  icon: fa-brands fa-bluesky 
+  icon: fab fa-bluesky 
 - title: GitHub
   url: https://github.com/hoeflet
   icon: fab fa-github
