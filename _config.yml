@@ -1,5 +1,5 @@
-title: Hamilton
-description: A minimal and beautiful Jekyll theme best for writing and note-taking.
+title: Thomas Hoefler | Virologist
+description: Evolutionary and molecular genetics of viral infections
 author: Thomas Hoefler
 avatar: /head.jpg
 email: hoeft@ksu.edu
@@ -30,14 +30,14 @@ exclude:
 # Jekyll SEO Tag (Optional)
 # =========================
 twitter:
-  username: ngzhio
+  username: Hoef_Th
   card: summary
-logo: logo.png
+logo: head.jpg
 social:
-  name: Shangzhi Huang
+  name: Thomas Hoefler
   links:
-    - https://twitter.com/ngzhio
-    - https://www.facebook.com/ngzhio
-    - https://github.com/ngzhio
+    - https://x.com/Hoef_Th
+    - https://www.linkedin.com/in/thomas-höfler-0146a81a3?trk=people-guest_people_search-card
+    - https://github.com/hoeflet
 google_site_verification: u4WXQl0Eu66rsQo2kRdCNx
 lang: en
