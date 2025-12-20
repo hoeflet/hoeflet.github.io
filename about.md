@@ -12,5 +12,9 @@ Herpesviruses are among the most prevalent and diverse animal viruses known to m
 
 ![herpesviruses](/figures/herpesviruses.png "Organisation and Structure of Herpesviruses, from PhD thesis Thomas Hoefler, 2024")
 
+During replication of their genome, herpesviruses introduce a moderate amount of mutations. We utilized DNA-polymerase mutants to increase mutation rates and therefore accelerate evolution. We can do this thanks to the two separate enzymatic functions of B-family DNA-polymerases: 5'-3'-polymerase and 3'-5'-exonuclease function.
+
+![herpesviruses_pol](/figures/ScienceEssayFigure.tiff "Herpesvirus Polymerase Structure, adapted from PhD thesis Thomas Hoefler, 2024")
+
 
 
