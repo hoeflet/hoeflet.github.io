@@ -27,8 +27,8 @@ exclude:
   - README.md
   - jekyll-theme-hamilton.gemspec
 
-# Jekyll SEO Tag (Optional)
-# =========================
+ Jekyll SEO Tag (Optional)
+ =========================
 twitter:
   username: Hoef_Th
   card: summary
