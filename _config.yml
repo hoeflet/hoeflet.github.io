@@ -6,6 +6,7 @@ email: hoeft@ksu.edu
 
 plugins:
   - jekyll-seo-tag
+  - jekyll-feed
   - jekyll-sitemap
   - jekyll-paginate
 
