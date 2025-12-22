@@ -6,13 +6,9 @@ permalink: /about/
 
 ## Hi, I am Thomas!
 
-![Me](/figures/head.jpg "Thomas Höfler")
+![Me](/figures/head_logo.png "Thomas Höfler, logo")
 
-I am a molecular microbiologist who studies viruses and how the change over time.
-
-![lablogo](/lablogo.png "evo-mol genetics of viruses TH")
-
-I study evolutionary and molecular genetics of viral infections. Using experimental evolution, I focus on key phenotypes such as antiviral resistance, immune evasion, virulence as well as genetic conflict and cooperation within viral populations.
+I am a molecular microbiologist who studies evolutionary and molecular genetics of viral infections. Using experimental evolution, I focus on key phenotypes such as antiviral resistance, immune evasion, virulence as well as genetic conflict and cooperation within viral populations.
 
 Herpesviruses are among the most prevalent and diverse animal viruses known to mankind. Virtually every animal species harbors one or more different species of herpesvirus, regardless whether mammal, fish, amphibian, mollusk, bird or reptile. Given this immense variation, herpesviruses are the ideal order to study host-pathogen adaptation.
 
