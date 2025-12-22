@@ -4,4 +4,4 @@ title: Docs
 permalink: /docs/
 ---
 
-A documentation page.
+<a href="/AltaCV.pdf" download>Click here to download</a>

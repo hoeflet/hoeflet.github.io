@@ -1,12 +1,11 @@
 title: Thomas Hoefler | Virologist
 description: Evolutionary and molecular genetics of viral infections
-author: Thomas Hoefler
+author: Thomas Höfler
 avatar: /lablogo.png
 email: hoeft@ksu.edu
 
 plugins:
   - jekyll-seo-tag
-  - jekyll-feed
   - jekyll-sitemap
   - jekyll-paginate
 
