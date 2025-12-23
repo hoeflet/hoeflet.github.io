@@ -1,0 +1,23 @@
+---
+layout: post
+toc: true
+title: "Evolutionary Dynamics of Accelerated Antiviral Resistance Development in Hypermutator Herpesvirus, published 2024 in *Molecular Biology and Evolution*"
+categories: research paper
+tags: [hypermutator, antiviral resistance, HSV-1]
+author:
+  - Thomas Höfler
+---
+
+This study uses a mild hypermutator herpesvirus to accelerate experimental evolution.
+
+![Graphical Abstract](/figures/GA_MBE_2024.png "graphical abstract")
+
+A substitution in the HSV-1 DNA-polymerase (Y557S) interferes with proofreading to an extent that mutation rates are increased 2-3 times while replication kinetics is mostly unaffected. This allows for faster adaptation, in this case to antiviral selection pressure. Importantly, no major difference in the evolutionary process could be observed, except faster dynamic.
+
+![Figure 2](/figures/Fig2_MBE_2024.png "Figure 2")
+
+More single nucleotide polymorphisms per population, but also per clone allow for faster movement through evolutionary space. Especially, the DNA-polymerase (*UL30*) and the thymidine kinase (*UL23*) are under positive selection upon antiviral treatment.
+
+![Figure 3](/figures/Fig3_MBE_2024.png "Figure 3")
+
+Overall, this study introduces HSV-1 Y557S as a powerful tool to study experimental evolution in reasonable timeframes. For further information please see the original publication <https://doi.org/10.1093/molbev/msae119>

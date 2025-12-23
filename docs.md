@@ -4,4 +4,6 @@ title: Docs
 permalink: /docs/
 ---
 
-<a href="/AltaCV.pdf" download>Click here to download</a>
+## Downloads
+
+<a href="/AltaCV.pdf" download>Download CV</a>

@@ -4,23 +4,23 @@ title: About
 permalink: /about/
 ---
 
-## Hi, I am Thomas!
+## Hi, I am Thomas Höfler!
 
 ![Me](/figures/head_logo.png "Thomas Höfler, logo")
 
-I am a molecular microbiologist who studies evolutionary and molecular genetics of viral infections. Using experimental evolution, I focus on key phenotypes such as antiviral resistance, immune evasion, virulence as well as genetic conflict and cooperation within viral populations.
+I am a molecular microbiologist who studies the evolutionary and molecular genetics of viral infections. Using experimental evolution, I focus on key phenotypes such as antiviral resistance, immune evasion, virulence, as well as genetic conflict and cooperation within viral populations.
 
-Herpesviruses are among the most prevalent and diverse animal viruses known to mankind. Virtually every animal species harbors one or more different species of herpesvirus, regardless whether mammal, fish, amphibian, mollusc, bird or reptile. Given this immense variation, herpesviruses are the ideal order to study host-pathogen adaptation.
+Herpesviruses are among the most prevalent and diverse animal viruses known to humanity. Virtually every animal species harbors one or more species of herpesvirus, regardless of whether they are mammals, fish, amphibians, molluscs, birds, or reptiles. Given this immense variation, herpesviruses are an ideal order for studying host-pathogen adaptation.
 
 ![herpesviruses](/figures/herpesviruses.png "Organisation and Structure of Herpesviruses, from PhD thesis Thomas Hoefler, 2024")
 
-During replication of their genome, herpesviruses introduce a moderate amount of mutations. We utilized DNA-polymerase mutants to increase mutation rates and therefore accelerate evolution. We can do this thanks to the two separate enzymatic functions of B-family DNA-polymerases: 5'-3'-polymerase and 3'-5'-exonuclease function.
+During replication of their genome, herpesviruses introduce a moderate amount of mutations. We utilized DNA-polymerase mutants to increase mutation rates and therefore accelerate evolution. We can achieve this thanks to the two separate enzymatic functions of B-family DNA-polymerases: 5'-3' polymerase and 3'-5' exonuclease function.
 
-![herpesviruses_pol](/figures/ScienceEssayFigure.png "Herpesvirus Polymerase Structure, adapted from PhD thesis Thomas Hoefler, 2024")
+![herpesviruses_pol](/figures/ScienceEssayFigure.png "Herpesvirus Polymerase Structure, adapted from PhD thesis Thomas Höfler, 2024")
 
 ## Viruses
 
-However, I also work on RNA viruses, here a short list of all the viruses we handle.
+Apart from herpesviruses, I also work on RNA viruses; here is a short list of all the viruses we handle.
 
 
 - DNA viruses
@@ -31,18 +31,18 @@ However, I also work on RNA viruses, here a short list of all the viruses we han
 	- Frog Virus 3 (Frogs)
 	- Varicella Zoster Virus (Human)
 - RNA viruses
-	- Influenza A virus (mammals, birds)
-	- SARS-CoV-2 (mammals)
-	- West nile virus (athropods, birds, mammals)
-	- Blue tongue virus (midges, cattle)
+	- Influenza A Virus (Mammals, Birds)
+	- SARS-CoV-2 (Mammals)
+	- West Nile Virus (Arthropods, Birds, Mammals)
+	- Blue tongue Virus (Midges, Cattle)
 	
 
 ## Methods
-I combine wet lab bench experimentation with computational methods to build new hypothesis and confirm or reject them experimentally. Especially genomic and transcriptomic data gets integrated into AI-models to search for underlying structure and information. Both short and long read sequencing allows for a broad exploration of genomic sequence, structure and modification.
+I combine wet lab bench experimentation with computational methods to build new hypotheses and confirm or reject them experimentally. Especially, genomic and transcriptomic data are integrated into AI-models to search for underlying structure and information. Both short and long-read sequencing enable an extensive exploration of genomic sequence, structure, and modification.
 
 ## Publications
 
-If you are interested, check out any of my publications, there are also some more details in the specific blog posts.
+f you are interested, check out any of my publications; there are also additional details in the specific blog posts.
 
 1. **Höfler T**, Zeitlow M, Kim JY, Wyler E, Trimpert J. 2025. **Rapid glycoprotein evolution enables variant interactions in herpes simplex virus type 1.** *Virus Evolution* 11:veaf072.
 2. Friedrich VD, Pennitz P, Wyler E, Adler JM, Postmus D, Müller K, Teixeira Alves LG, Prigann J, Pott F, Vladimirova D, **Hoefler T**, Goekeri C, Landthaler M, Goffinet C, Saliba A-E, Scholz M, Witzenrath M, Trimpert J, Kirsten H, Nouailles G. 2024. **Neural network-assisted humanisation of COVID-19 hamster transcriptomic data reveals matching severity states in human disease.** *eBioMedicine* 108:105312.
